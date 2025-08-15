@@ -4,9 +4,9 @@
 
 🤖 Desenvolvo projetos de **IoT** com Arduino e sensores, unindo o mundo físico e digital.
 
-🛡️ Meu foco é **Cibersegurança**, onde aplico meus conhecimentos para proteger redes e sistemas complexos.
+🛡️ Meu foco é **Cibersegurança**, onde aplico meus conhecimentos para proteger redes e sistemas.
 
-⚛️ Sou um grande entusiasta do futuro da **Computação Quântica**.
+⚛️ Sou uma grande entusiasta do futuro da **Computação Quântica**.
 
 🌱 Meu objetivo é simples: aprender sempre e ajudar pessoas nessa jornada.
 
