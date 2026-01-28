@@ -2,9 +2,7 @@
 
 🛠️ Maker e Estudante de Ciência da Computação na UFJ.
 
-🤖 Desenvolvo projetos de **IoT** com Arduino e sensores, unindo o mundo físico e digital.
-
-🛡️ Meu foco é **Cibersegurança**, onde aplico meus conhecimentos para proteger redes e sistemas.
+🤖 Desenvolvo projetos de IoT com Arduino e sensores, unindo o mundo físico e digital.
 
 ⚛️ Sou uma grande entusiasta do futuro da **Computação Quântica**.
 
