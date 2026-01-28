@@ -4,7 +4,7 @@
 
 🤖 Desenvolvo projetos de IoT com Arduino e sensores, unindo o mundo físico e digital.
 
-⚛️ Sou uma grande entusiasta do futuro da **Computação Quântica**.
+⚛️ Sou uma grande entusiasta do futuro da Computação Quântica.
 
 🌱 Meu objetivo é simples: aprender sempre e ajudar pessoas nessa jornada.
 
