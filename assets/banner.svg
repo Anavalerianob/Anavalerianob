@@ -1,0 +1,114 @@
+<svg width="100%" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Hi, I'm Ana Luisa — Backend Dev in making</title>
+  <defs>
+    <style>
+      @keyframes slide { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: translateY(0) } }
+      @keyframes twinkle { 0%,100% { opacity: 0.2 } 50% { opacity: 1 } }
+      @keyframes shimmer { 0%,100% { opacity: 0.08 } 50% { opacity: 0.2 } }
+      .title { animation: slide 1s ease 0.3s both; font-family: 'Courier New', monospace; }
+      .sub { animation: slide 1s ease 0.8s both; font-family: 'Courier New', monospace; }
+      .s1 { animation: twinkle 2s ease-in-out infinite; }
+      .s2 { animation: twinkle 2.5s ease-in-out 0.5s infinite; }
+      .s3 { animation: twinkle 3s ease-in-out 1s infinite; }
+      .s4 { animation: twinkle 1.8s ease-in-out 0.3s infinite; }
+      .s5 { animation: twinkle 2.2s ease-in-out 0.8s infinite; }
+      .wl { animation: shimmer 3s ease-in-out infinite; }
+      .wl2 { animation: shimmer 3.5s ease-in-out 0.5s infinite; }
+      .wl3 { animation: shimmer 4s ease-in-out 1s infinite; }
+    </style>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#553c6b"/>
+    </linearGradient>
+    <linearGradient id="mtn1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6b3f7a"/>
+      <stop offset="100%" stop-color="#3d2250"/>
+    </linearGradient>
+    <linearGradient id="mtn2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4a2d5e"/>
+      <stop offset="100%" stop-color="#2a1a3e"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff8dc" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#ffeaa7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#fdcb6e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2d1b69" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1a0a2e" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="tree" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a472a"/>
+      <stop offset="100%" stop-color="#0d2b1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="280" fill="url(#sky)"/>
+
+  <circle class="s1" cx="80" cy="30" r="1.5" fill="#ffffff"/>
+  <circle class="s2" cx="150" cy="18" r="1" fill="#ffffff"/>
+  <circle class="s3" cx="230" cy="40" r="1.5" fill="#ffffff"/>
+  <circle class="s4" cx="320" cy="22" r="1" fill="#ffffff"/>
+  <circle class="s5" cx="400" cy="35" r="1.5" fill="#ffffff"/>
+  <circle class="s1" cx="480" cy="15" r="1" fill="#ffffff"/>
+  <circle class="s2" cx="560" cy="28" r="1.5" fill="#ffffff"/>
+  <circle class="s3" cx="640" cy="18" r="1" fill="#ffffff"/>
+  <circle class="s4" cx="720" cy="40" r="1.5" fill="#ffffff"/>
+  <circle class="s5" cx="800" cy="20" r="1" fill="#ffffff"/>
+  <circle class="s1" cx="860" cy="35" r="1.5" fill="#ffffff"/>
+  <circle class="s2" cx="50" cy="55" r="1" fill="#d4b8ff"/>
+  <circle class="s3" cx="190" cy="60" r="1.5" fill="#d4b8ff"/>
+  <circle class="s4" cx="700" cy="55" r="1" fill="#d4b8ff"/>
+  <circle class="s5" cx="840" cy="60" r="1.5" fill="#d4b8ff"/>
+  <circle class="s3" cx="270" cy="25" r="1" fill="#ffffff"/>
+  <circle class="s1" cx="530" cy="48" r="1.2" fill="#ffffff"/>
+  <circle class="s4" cx="610" cy="32" r="1" fill="#d4b8ff"/>
+  <circle class="s2" cx="760" cy="44" r="1.2" fill="#ffffff"/>
+  <circle class="s5" cx="890" cy="28" r="1" fill="#ffffff"/>
+
+  <circle cx="160" cy="70" r="50" fill="url(#moon)" opacity="0.3"/>
+  <circle cx="160" cy="70" r="28" fill="#fff8dc" opacity="0.95"/>
+  <circle cx="152" cy="65" r="4" fill="#f0d070" opacity="0.5"/>
+  <circle cx="170" cy="75" r="3" fill="#f0d070" opacity="0.4"/>
+  <circle cx="158" cy="78" r="2" fill="#f0d070" opacity="0.3"/>
+
+  <polygon points="0,180 120,80 240,160 360,90 480,150 600,85 720,145 840,95 900,130 900,200 0,200" fill="url(#mtn2)" opacity="0.7"/>
+  <polygon points="0,200 100,130 180,175 300,110 420,165 520,105 650,160 760,115 900,150 900,220 0,220" fill="url(#mtn1)"/>
+
+  <rect x="0" y="210" width="900" height="70" fill="url(#water)"/>
+  <ellipse cx="160" cy="232" rx="20" ry="9" fill="#fff8dc" opacity="0.12"/>
+  <line class="wl" x1="50" y1="224" x2="160" y2="224" stroke="#ffffff" stroke-width="1"/>
+  <line class="wl2" x1="200" y1="233" x2="380" y2="233" stroke="#ffffff" stroke-width="1"/>
+  <line class="wl3" x1="500" y1="228" x2="670" y2="228" stroke="#ffffff" stroke-width="1"/>
+  <line class="wl" x1="720" y1="238" x2="860" y2="238" stroke="#ffffff" stroke-width="1"/>
+  <line class="wl2" x1="100" y1="245" x2="250" y2="245" stroke="#ffffff" stroke-width="0.5"/>
+  <line class="wl3" x1="600" y1="242" x2="780" y2="242" stroke="#ffffff" stroke-width="0.5"/>
+
+  <polygon points="30,215 55,130 80,215" fill="url(#tree)"/>
+  <polygon points="38,188 55,120 72,188" fill="#1a472a"/>
+  <polygon points="44,168 55,112 66,168" fill="#1e5431"/>
+  <rect x="51" y="212" width="8" height="12" fill="#3d2b1f"/>
+  <polygon points="0,218 22,148 44,218" fill="#152e1e"/>
+  <polygon points="6,198 22,140 38,198" fill="#1a3d26"/>
+  <polygon points="65,213 85,150 105,213" fill="url(#tree)"/>
+  <polygon points="71,194 85,143 99,194" fill="#1e5431"/>
+  <rect x="81" y="211" width="7" height="10" fill="#3d2b1f"/>
+  <polygon points="100,218 116,162 132,218" fill="#152e1e"/>
+  <polygon points="105,202 116,155 127,202" fill="#1a3d26"/>
+
+  <polygon points="820,213 845,130 870,213" fill="url(#tree)"/>
+  <polygon points="828,188 845,120 862,188" fill="#1a472a"/>
+  <polygon points="834,168 845,112 856,168" fill="#1e5431"/>
+  <rect x="841" y="211" width="8" height="12" fill="#3d2b1f"/>
+  <polygon points="858,215 878,148 898,215" fill="#152e1e"/>
+  <polygon points="864,196 878,140 892,196" fill="#1a3d26"/>
+  <polygon points="796,216 818,155 840,216" fill="url(#tree)"/>
+  <polygon points="802,198 818,148 834,198" fill="#1e5431"/>
+  <rect x="814" y="214" width="7" height="9" fill="#3d2b1f"/>
+  <polygon points="768,218 784,162 800,218" fill="#152e1e"/>
+  <polygon points="773,202 784,155 795,202" fill="#1a3d26"/>
+
+  <text class="title" x="450" y="155" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff" letter-spacing="1">Hi, I'm Ana Luisa</text>
+  <text class="sub" x="450" y="180" text-anchor="middle" font-size="14" fill="#d4b8ff" letter-spacing="2">Backend Dev in making</text>
+</svg>
