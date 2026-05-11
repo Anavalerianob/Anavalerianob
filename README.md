@@ -1,109 +1,105 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=200&section=header&text=Ana%20Luisa%20Valeriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20IoT%20Engineer%20%7C%20CC%20%40%20UFJ&descAlignY=58&descSize=18&descColor=00d9ff&animation=fadeIn"/>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Estagiária+Backend+%40+Beehus+Tech+🚀;Node.js+%7C+TypeScript+%7C+MongoDB;Conectando+o+físico+ao+digital+via+IoT+🔌;Entusiasta+de+Computação+Quântica+⚛️;Ciência+da+Computação+%40+UFJ+🎓)
-
-</div>
-
----
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Anavalerianob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-
-### 👩‍💻 Sobre mim
-
-```ts
-const ana = {
-  cidade:   "Jataí, GO 🇧🇷",
-  curso:    "Ciência da Computação @ UFJ",
-  estágio:  "Backend Dev @ Beehus Tech",
-  foco:     ["Node.js", "TypeScript", "MongoDB"],
-  hobby:    ["IoT", "Arduino", "Segurança"],
-  objetivo: "Aprender sempre 🌱",
-}
-```
-
-<br clear="right"/>
-
----
-
-### 🛠️ Stack
-
-<div align="center">
-
-**Backend & Web**
-
-![Node.js](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=00d9ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=00d9ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=00d9ff)
-![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=00d9ff)
-
-**Hardware & IoT**
-
-![Arduino](https://img.shields.io/badge/Arduino-101010?style=for-the-badge&logo=arduino&logoColor=00d9ff)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-101010?style=for-the-badge&logo=raspberrypi&logoColor=00d9ff)
-![C++](https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=00d9ff)
-
-**Dados & Segurança**
-
-![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00d9ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00d9ff)
-![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=00d9ff)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=00d9ff)
-![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=00d9ff)
-![VS Code](https://img.shields.io/badge/VS_Code-101010?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anavalerianob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6"/>
-<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anavalerianob&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=666"/>
-
-</div>
-
----
-
-### 🚀 Missão atual
-
-| Frente | O que estou fazendo |
-|--------|-------------------|
-| 🏢 **Estágio** | Construindo APIs REST com Node.js + TypeScript + MongoDB na Beehus Tech |
-| 🎓 **Faculdade** | Graduação em Ciência da Computação na UFJ |
-| 🔌 **IoT** | Projetos com Arduino, sensores e automação |
-| ⚛️ **Estudos** | Explorando Computação Quântica e Segurança (Blue Team) |
-
----
-
-### 🌐 Onde me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/analuisavaleriano)
-[![Gmail](https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:analuisavalerianob@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Anavalerianob)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=oi,%20eu%20sou%20a%20Ana%20Luisa%20👋&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=bem-vindo%20ao%20meu%20cantinho%20no%20GitHub%20✨&descAlignY=62&descSize=16&descColor=a0d8ef&animation=fadeIn"/>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Anavalerianob&color=00d9ff&style=flat-square&label=visitantes)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a0d8ef&center=true&vCenter=true&width=500&lines=estudante+de+CC+na+UFJ+🎓;estagiária+backend+na+Beehus+Tech+🚀;apaixonada+por+IoT+e+Arduino+🔌;explorando+Computação+Quântica+⚛️;sempre+aprendendo+algo+novo+🌱)
 
 </div>
+
+<br/>
+
+---
+
+## quem sou eu? 🙋‍♀️
+
+sou a Ana Luisa, de Jataí — GO. Estudo Ciência da Computação na UFJ e faço estágio como desenvolvedora backend na Beehus Tech, onde trabalho com **Node.js**, **TypeScript** e **MongoDB**.
+
+fora do backend, adoro conectar o mundo físico ao digital com **Arduino e IoT**, e tenho uma queda especial por **Computação Quântica** (sim, é fascinante demais 🤓).
+
+quando não estou codando, provavelmente estou descobrindo algum conceito novo e anotando em algum lugar 📓
+
+<br/>
+
+---
+
+## o que eu uso 🛠️
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=a0d8ef)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=a0d8ef)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=a0d8ef)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=a0d8ef)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=a0d8ef)
+![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=for-the-badge&logo=arduino&logoColor=a0d8ef)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=a0d8ef)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=a0d8ef)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=a0d8ef)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=a0d8ef)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=a0d8ef)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=a0d8ef)
+
+</div>
+
+<br/>
+
+---
+
+## meus números 📊
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anavalerianob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0d8ef&icon_color=a0d8ef&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anavalerianob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0d8ef&text_color=c9d1d9&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anavalerianob&theme=tokyonight&hide_border=true&background=0d1117&ring=a0d8ef&fire=ff6b6b&currStreakLabel=a0d8ef&dates=666666"/>
+
+</div>
+
+<br/>
+
+---
+
+## no que estou agora 🔭
+
+- 🏢 construindo APIs na **Beehus Tech** com Node + TypeScript + MongoDB
+- 🎓 avançando na graduação de **Ciência da Computação** na UFJ  
+- 🔌 desenvolvendo projetos de **IoT** com Arduino e sensores
+- ⚛️ estudando os fundamentos de **Computação Quântica**
+- 🔐 explorando **segurança** — Python for Security, Blue Team
+
+<br/>
+
+---
+
+## me acha por aí 🌐
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=a0d8ef)](https://linkedin.com/in/analuisavaleriano)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a0d8ef)](mailto:analuisavalerianob@gmail.com)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Anavalerianob&color=a0d8ef&style=flat-square&label=visitantes)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-*"Nada na vida deve ser temido, apenas compreendido.*
-*Agora é hora de compreender mais, para que possamos temer menos."*
-**— Marie Curie**
+*"Nada na vida deve ser temido, apenas compreendido.*  
+*Agora é hora de compreender mais, para que possamos temer menos."*  
+— Marie Curie ✨
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
