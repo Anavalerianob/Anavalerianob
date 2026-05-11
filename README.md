@@ -1,114 +1,98 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=200&section=header&text=Ana%20Luisa%20Valeriano&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20IoT%20Engineer%20%7C%20CC%20%40%20UFJ&descAlignY=58&descSize=18&descColor=00d9ff&animation=fadeIn"/>
+
 <div align="center">
 
-```
-█████╗ ███╗   ██╗ █████╗     ██╗     ██╗   ██╗██╗███████╗ █████╗ 
-██╔══██╗████╗  ██║██╔══██╗    ██║     ██║   ██║██║██╔════╝██╔══██╗
-███████║██╔██╗ ██║███████║    ██║     ██║   ██║██║███████╗███████║
-██╔══██║██║╚██╗██║██╔══██║    ██║     ██║   ██║██║╚════██║██╔══██║
-██║  ██║██║ ╚████║██║  ██║    ███████╗╚██████╔╝██║███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝
-```
-
-### `> Ciência da Computação @ UFJ` &nbsp;|&nbsp; `> Backend Dev` &nbsp;|&nbsp; `> IoT Engineer`
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvendo+o+backend+do+futuro+%F0%9F%9A%80;Conectando+o+mundo+f%C3%ADsico+ao+digital+via+IoT+%F0%9F%94%8C;Apaixonada+por+Computa%C3%A7%C3%A3o+Qu%C3%A2ntica+%E2%9A%9B%EF%B8%8F;Node.js+%7C+TypeScript+%7C+Arduino+%7C+Python)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Estagiária+Backend+%40+Beehus+Tech+🚀;Node.js+%7C+TypeScript+%7C+MongoDB;Conectando+o+físico+ao+digital+via+IoT+🔌;Entusiasta+de+Computação+Quântica+⚛️;Ciência+da+Computação+%40+UFJ+🎓)
 
 </div>
 
 ---
 
-## `$ whoami`
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Anavalerianob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+
+### 👩‍💻 Sobre mim
 
 ```ts
-const ana: Developer = {
-  nome:       "Ana Luisa Valeriano",
-  localizacao: "Jataí, GO — Brasil 🇧🇷",
-  formacao:   "Ciência da Computação @ UFJ",
-  estagio:    "Backend Developer @ Beehus Tech",
-  stack:      ["Node.js", "TypeScript", "JavaScript", "Python"],
-  hardware:   ["Arduino", "Raspberry Pi", "sensores IoT"],
-  interesses: ["Backend", "IoT", "Computação Quântica", "Segurança"],
-  objetivo:   "Aprender sempre e ajudar pessoas nessa jornada 🌱",
-};
+const ana = {
+  cidade:   "Jataí, GO 🇧🇷",
+  curso:    "Ciência da Computação @ UFJ",
+  estágio:  "Backend Dev @ Beehus Tech",
+  foco:     ["Node.js", "TypeScript", "MongoDB"],
+  hobby:    ["IoT", "Arduino", "Segurança"],
+  objetivo: "Aprender sempre 🌱",
+}
 ```
+
+<br clear="right"/>
 
 ---
 
-## `$ ls -la stack/`
+### 🛠️ Stack
 
 <div align="center">
 
 **Backend & Web**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=00d9ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=00d9ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=00d9ff)
+![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=00d9ff)
 
 **Hardware & IoT**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-101010?style=for-the-badge&logo=arduino&logoColor=00d9ff)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-101010?style=for-the-badge&logo=raspberrypi&logoColor=00d9ff)
+![C++](https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=00d9ff)
 
 **Dados & Segurança**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00d9ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00d9ff)
+![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=00d9ff)
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=00d9ff)
+![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=00d9ff)
+![VS Code](https://img.shields.io/badge/VS_Code-101010?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff)
 
 </div>
 
 ---
 
-## `$ cat stats.log`
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anavalerianob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anavalerianob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6"/>
+<img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anavalerianob&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=666"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anavalerianob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+</div>
+
+---
+
+### 🚀 Missão atual
+
+| Frente | O que estou fazendo |
+|--------|-------------------|
+| 🏢 **Estágio** | Construindo APIs REST com Node.js + TypeScript + MongoDB na Beehus Tech |
+| 🎓 **Faculdade** | Graduação em Ciência da Computação na UFJ |
+| 🔌 **IoT** | Projetos com Arduino, sensores e automação |
+| ⚛️ **Estudos** | Explorando Computação Quântica e Segurança (Blue Team) |
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/analuisavaleriano)
+[![Gmail](https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:analuisavalerianob@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Anavalerianob)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anavalerianob&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-
-</div>
-
----
-
-## `$ cat current_mission.txt`
-
-```bash
-[2026] Estagiária Backend @ Beehus Tech
-        ├── Node.js + TypeScript + MongoDB
-        ├── Git flow + Conventional Commits
-        └── Construindo APIs do zero 🚀
-
-[ongoing] Graduação em Ciência da Computação @ UFJ
-        ├── Projetos de IoT com Arduino e sensores
-        ├── Entusiasta de Computação Quântica ⚛️
-        └── Python for Security — Blue Team
-```
-
----
-
-## `$ ping socials`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/analuisavaleriano)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analuisavalerianob@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anavalerianob)
+![](https://komarev.com/ghpvc/?username=Anavalerianob&color=00d9ff&style=flat-square&label=visitantes)
 
 </div>
 
@@ -118,11 +102,8 @@ const ana: Developer = {
 
 *"Nada na vida deve ser temido, apenas compreendido.*
 *Agora é hora de compreender mais, para que possamos temer menos."*
-
 **— Marie Curie**
 
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Anavalerianob&color=00d9ff&style=flat-square&label=visitors)
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=120&section=footer"/>
