@@ -57,7 +57,7 @@ também pesquiso e desenvolvo na área de IoT, conectando hardware ao mundo digi
 
 ## no que estou agora
 
-- construindo APIs REST na Beehus Tech com Node + TypeScript + MongoDB
+- construindo APIs REST na Beehus Tech
 - avançando no curso de CC na UFJ
 - desenvolvendo projetos de IoT com Arduino e sensores
 - estudando cibersegurança — Blue Team e Python for Security
