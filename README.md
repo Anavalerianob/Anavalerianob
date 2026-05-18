@@ -18,7 +18,6 @@ sou a Ana Luisa, de Jataí — GO. Estudo Ciência da Computação na UFJ e faç
 
 também pesquiso e desenvolvo na área de IoT, conectando hardware ao mundo digital com Arduino e Raspberry Pi. paralelamente, estudo cibersegurança — focada em Blue Team, análise de logs e segurança ofensiva com Python.
 
-são três frentes que se conectam: backend sólido, hardware inteligente e sistemas seguros.
 
 <br/>
 
