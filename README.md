@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a0d8ef&center=true&vCenter=true&width=500&lines=estudante+de+CC+na+UFJ+🎓;estagiária+backend+na+Beehus+Tech;desenvolvendo+APIs+com+Node.js+e+TypeScript;pesquisando+IoT+e+Cibersegurança;sempre+aprendendo+algo+novo+🌱)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=a0d8ef&center=true&vCenter=true&width=500&lines=estudante+de+CC+na+UFJ+🎓;em+transição+para+cibersegurança+🔐;estudando+SOC+e+Blue+Team;segurança+de+aplicações+e+IoT;sempre+aprendendo+algo+novo+🌱)
 
 </div>
 
@@ -14,10 +14,9 @@
 
 ## quem sou eu?
 
-sou a Ana Luisa, de Jataí — GO. Estudo Ciência da Computação na UFJ e faço estágio como desenvolvedora backend na Beehus Tech, construindo APIs com Node.js, TypeScript e MongoDB.
+sou a Ana Luisa, de Jataí (GO). estudo Ciência da Computação na UFJ e estou em transição para a cibersegurança, com foco em operações de segurança (SOC) e segurança de aplicações.
 
-também pesquiso e desenvolvo na área de IoT, conectando hardware ao mundo digital com Arduino e Raspberry Pi. paralelamente, estudo cibersegurança — focada em Blue Team, análise de logs e segurança ofensiva com Python.
-
+minha base vem do desenvolvimento: fui estagiária backend na Beehus Tech, trabalhando com APIs, Linux e Docker, e desenvolvi projetos de IoT e sistemas embarcados na pesquisa acadêmica. hoje uso essa bagagem para entender como os sistemas falham e como protegê-los.
 
 <br/>
 
@@ -27,27 +26,27 @@ também pesquiso e desenvolvo na área de IoT, conectando hardware ao mundo digi
 
 <div align="center">
 
-**Backend**
+### segurança & sistemas
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker&theme=dark" />
 
 <br/><br/>
 
-**IoT & Hardware**
+### desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,mongodb,mysql&theme=dark" />
+
+<br/><br/>
+
+### IoT & hardware
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" />
 
 <br/><br/>
 
-**Segurança & Dados**
+### ferramentas
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash&theme=dark" />
-
-<br/><br/>
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -57,10 +56,10 @@ também pesquiso e desenvolvo na área de IoT, conectando hardware ao mundo digi
 
 ## no que estou agora
 
-- construindo APIs REST na Beehus Tech
-- avançando no curso de CC na UFJ
-- desenvolvendo projetos de IoT com Arduino e sensores
-- estudando cibersegurança — Blue Team e Python for Security
+- fazendo as trilhas Cyber Security 101 e SOC Level 1 no TryHackMe
+- estudando análise de logs, redes e fundamentos de Blue Team
+- aprendendo segurança de aplicações web (OWASP Top 10)
+- concluindo a graduação em CC na UFJ
 - explorando Computação Quântica nas horas vagas
 
 <br/>
@@ -86,5 +85,5 @@ também pesquiso e desenvolvo na área de IoT, conectando hardware ao mundo digi
 ---
 
 <div align="center">
-<sub>"Nada na vida deve ser temido, apenas compreendido." — Marie Curie</sub>
+<sub>"Nada na vida deve ser temido, apenas compreendido." (Marie Curie)</sub>
 </div>
