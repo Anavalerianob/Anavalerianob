@@ -1,5 +1,5 @@
 <svg width="100%" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Hi, I'm Ana Luisa — Backend Dev in making</title>
+<title>Ana Luisa Valeriano | Cybersecurity, SOC & AppSec</title>
   <defs>
     <style>
       @keyframes slide { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: translateY(0) } }
@@ -110,5 +110,5 @@
   <polygon points="773,202 784,155 795,202" fill="#1a3d26"/>
 
   <text class="title" x="450" y="155" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff" letter-spacing="1">Hi, I'm Ana Luisa</text>
-  <text class="sub" x="450" y="180" text-anchor="middle" font-size="14" fill="#d4b8ff" letter-spacing="2">Backend Dev in making</text>
+  <text class="sub" x="450" y="180" text-anchor="middle" font-size="14" fill="#d4b8ff" letter-spacing="2">Cybersecurity in the making</text>
 </svg>
